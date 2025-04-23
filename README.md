@@ -49,7 +49,7 @@ This system automates attendance management by replacing manual processes with b
 2. Start **Apache** and **MySQL** modules.
 3. Import the `biometricattendance.sql` file via **phpMyAdmin**
 4. Place PHP files (`getdata.php`, etc.) in:
-C:\xampp\htdocs\biometricattendancev2\
+`"name of server"`
 5. Make sure the device and PC are on the same Wi-Fi network.
 
 ---
