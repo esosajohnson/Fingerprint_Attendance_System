@@ -99,10 +99,3 @@ Big thanks to Arnov Sharma and the maker community for sharing such great tutori
 ## 🧑‍💻 Author
 
 **Esosa M. Johnson Ikponmwosa**
-
----
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
